@@ -1,0 +1,136 @@
+1-Dirty bit is used to show the
+
+(a) Page with corrupted data
+
+(b) The wrong page in the memory
+
+(c) Page that is modified after being loaded into cache memory
+
+(d) Page that is less frequently accessed.
+
+(Ans: c)
+
+ 
+
+2-The garbage collector
+
+(a) is critical for efficient virtual memory system
+
+(b) Prevents fragmentation from occurring
+
+(c) Is mostly used with fixed partition
+
+(d) Collects fragmented areas of memory
+
+(Ans: d)
+
+ 
+
+3-The lowest level of input output control consist of
+
+(a) Device drivers
+
+(b) Interrupt handler
+
+(c) both (a) and (b)
+
+(d) None of these
+
+(Ans: c)
+
+ 
+
+4- The following has highest Access time:
+
+(a) Magnetic disk
+
+(b) Swapping devices
+
+(c) Floppy disk
+
+(d) Cache
+
+(Ans: a)
+
+ 
+
+5-A hardware device that is capable of executing a sequence of instruction is called
+
+(a) CU
+
+(b) Processor
+
+(c) CPU
+
+(d) ALU
+
+(Ans: b)
+
+ 
+
+6- To transfer electronic mail from one machine to another, the following TCP/IP protocol is used
+
+(a) RPC
+
+(b) FTP
+
+(c) SNMP
+
+(d) SMTP
+
+(Ans: d)
+
+
+
+7-High-resolution, bit-mapped displays are useful for displaying:
+
+(a) more characters
+
+(b) clearer characters
+
+(c) graphics
+
+(d) all of the above
+
+(Ans: a)
+
+ 
+
+8-The average number of comparisons in sequential search is:
+
+(a) n2
+
+(b) (n+1)/2
+
+(c) n(n+2)/2
+
+(d) n+2/2
+
+(Ans: b)
+
+ 
+
+9-The last DML statement processed during a commit transaction is?
+
+(a) INSERT
+
+(b) UPDATE
+
+(c) DELETE
+
+(d) POST
+
+(Ans: a)
+
+ 
+
+10-Standard for MODEM is drawn up by the following organisation:
+
+(a) Hayes
+
+(b) AT and T
+
+(c) BELL
+
+(d) CCITT
+(Ans: d)
